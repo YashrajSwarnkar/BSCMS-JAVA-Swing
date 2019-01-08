@@ -1,0 +1,12 @@
+.#*
+*~
+*#
+#*
+*.log
+*.tmp
+*/test
+*/build
+*/nbproject
+/Blood Bank Supply Chain System/build/
+/Blood Bank Supply Chain System/dist/
+/Blood Bank Supply Chain System/Databank.db4o
